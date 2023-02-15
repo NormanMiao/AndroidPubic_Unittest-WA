@@ -1,4 +1,3 @@
-# Android_UnittestAll_Public
 本示例用unittest组织测试用例，完成对wetestdemo的测试，包括登录失败、登录成功、检查勾选内容三个场景。
 
 【用例介绍】
@@ -24,5 +23,5 @@
 
 被测apk:wetestdemo.apk
 
-自动化框架：包含wa+appium+airtest三种，提测时请注意框架与脚本对应。
+自动化框架：Weautomator
 
